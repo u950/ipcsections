@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linear_layout" type="id" />
+    <item name="expandable_layout" type="id" />
+    <item name="itemTv" type="id" />
+    <item name="arrow_imageview" type="id" />
+    <item name="child_rv" type="id" />
+    <item name="main_recyclervie" type="id" />
+    <item name="chatButton" type="id" />
+    <item name="showPopupButton" type="id" />
+
+
+</resources>

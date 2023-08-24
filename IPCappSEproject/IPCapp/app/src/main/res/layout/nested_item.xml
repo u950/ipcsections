@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="20dp"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="20dp"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/nestedItemTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="Chapter 1"
+            android:textAlignment="center"
+            android:textColor="#0E0E0E"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/arrowImageView"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/arrow_down" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/expandableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="8dp"
+        android:paddingTop="4dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/detailedDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is the detailed description text."
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
