@@ -67,6 +67,7 @@ We appreciate contributions to enhance the IPC App's functionality and accuracy.
 The IPC App is intended for informational purposes only and does not constitute legal advice. Occasionally it may provide incorrect information.
 
 
+![ipc bot](https://github.com/u950/ipcsections/assets/103553174/847c00b7-79ef-4204-938b-b7f2438aed29)
 
 ---![ipc botui](https://github.com/u950/ipcsections/assets/103553174/acaa1b32-7e0c-4899-93a5-fc1cfb6abbc5)
 
