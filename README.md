@@ -72,4 +72,3 @@ The IPC App is intended for informational purposes only and does not constitute 
 ---![ipc botui](https://github.com/u950/ipcsections/assets/103553174/acaa1b32-7e0c-4899-93a5-fc1cfb6abbc5)
 
 
-Thank you for choosing the IPC App as your resource for understanding the Indian Penal Code. For support or inquiries, please contact us at support@ipc-app.com.
