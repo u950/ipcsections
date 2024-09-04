@@ -60,7 +60,7 @@ The IPC App comes with examples that demonstrate how to use its features effecti
 
 ## Contributing
 
-We appreciate contributions to enhance the IPC App's functionality and accuracy. If you find any discrepancies or have ideas for improvements, please refer to our [contribution guidelines](CONTRIBUTING.md).
+We appreciate contributions to enhance the IPC App's functionality and accuracy.
 
 ## Disclaimer
 
